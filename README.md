@@ -36,4 +36,4 @@ Hosting: InfinityFree Web Hosting
 🔗 Tautan Penting
 Live Demo Website: http://linggis.kesug.com
 
-Repository Source Code: https://github.com/robotiskanessa10/linggis
+Repository Source Code: https://github.com/afdzaladitia/linggis
